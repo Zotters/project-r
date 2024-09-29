@@ -6,7 +6,9 @@ An abundance of QBX/Ox/Standalone scripts for FiveM.
 
 ## Documentation
 
-Unavailable...
+[PR-Tuning](https://github.com/Zotters/pr-tuning)
+[PR-Mechanic](https://github.com/Zotters/pr-mechanic)
+[PR-Dealership](https://github.com/Zotters/pr-dealership)
 
 
 ## Support 
